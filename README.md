@@ -6,3 +6,5 @@
 ## Dashboard
 <img width="958" alt="Screenshot 2023-07-21 at 12 25 19 AM" src="https://github.com/lvltcode/RFM_Segmentation_Python/assets/23015549/36f252eb-655a-462e-a2ef-95a6f309957f">
 
+## Presentation
+[Link](https://www.canva.com/design/DAFpXp_ym10/izF0Or7F0Aetgpg56XQQrA/edit?utm_content=DAFpXp_ym10&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
